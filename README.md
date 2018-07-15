@@ -1,4 +1,4 @@
-# EnterpriseNetworkTopoloy
+# EnterpriseNetworkTopology
 A network topology with all the essential configuration for a multi-location based company.
 
 ## Configurations Done
@@ -10,4 +10,4 @@ A network topology with all the essential configuration for a multi-location bas
 6. Router security from unauthorised telnet.
 7. Internet Access to all the devices.
 
-<img height="900" width="900" src="https://github.com/sandeep3119/EnterpriseNetworkTopoloy/blob/master/topolgyDiagram.png">
+<img height="900" width="900" src="https://github.com/sandeep3119/EnterpriseNetworkTopology/blob/master/image/topologyDiagram.png">
