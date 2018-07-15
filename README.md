@@ -1,8 +1,8 @@
 # EnterpriseNetworkTopology
 A network topology with all the essential configuration for a multi-location based company.
 
-##Technology Used
- Cisco Packet Tracer 7.1
+## Technology Used
+   Cisco Packet Tracer 7.1
 
 ## Configurations Done
 1. VLAN Configuration for different offices.
@@ -16,4 +16,4 @@ A network topology with all the essential configuration for a multi-location bas
 
 <img height="800" width="1000" src="https://github.com/sandeep3119/EnterpriseNetworkTopology/blob/master/image/topologyDiagram.png">
 
-© 2018 SANDEEP KUMAR RANA 
+   © 2018 SANDEEP KUMAR RANA 
